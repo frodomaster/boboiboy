@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+    <items_info> <!-- this is opitonal -->
+      <title>[COLOR=red]BOBOIBOY ALL[/COLOR]</title> <!-- a title is required, other elements are optional -->
+
+
+
 <item>
 <title>[COLOR yellow]boboiboy (season 1) full episode - part 1[/COLOR]</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iYN0jtBNtME</link>
